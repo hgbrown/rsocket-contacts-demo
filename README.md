@@ -1,8 +1,8 @@
 # RSocket Server Demo
 
-[comment]: <> (YouTube: []&#40;&#41;)
+- [Watch YouTube video](https://youtu.be/GcBl9byna68)
 
-[comment]: <> (Blog: []&#40;&#41;)
+- [Read Blog article](https://hbrown.dev/kotlin/2021/03/28/rsocket-server-demo-aws-ec2-deployment.html)
 
 Demonstrates how to easy it is to create a RSocket server with Spring Boot.
 
